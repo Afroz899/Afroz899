@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Afroz Ahmad
-- 👀 I’m interested in Data Analytics.
+- 👀 I’m interested in Data Analytics/Data Science .
 - 🌱 I’m currently learning Python (jupyter notebook,pandas,numpy) 
 - 📫 How to reach me >> afrozahmad547123@gmail.com
 - 😄 Pronouns:He
